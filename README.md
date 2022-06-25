@@ -1,2 +1,2 @@
-# status
-status.ifoox.ru
+# inp
+ 
